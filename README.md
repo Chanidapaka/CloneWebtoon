@@ -24,9 +24,9 @@ CloneWebtoon is built to mimic the functionality of a webtoon platform by allowi
 
 ## 🖼️ Screenshots
 
-| Home Page                         | Webtoon Details                     | Reading View                     |
+| Home Page                         | Webtoon Details                     |  Webtoon Details 2        
 |------------------------------------|-------------------------------------|----------------------------------|
-| ![Home Page](path/to/screenshot1)  | ![Details Page](path/to/screenshot2)| ![Reading View](path/to/screenshot3) |
+| ![Home Page](file:///C:/020/WEBTOON/WEBTOON/index.html)  | ![Details Page](file:///C:/020/WEBTOON/WEBTOON/Original.html)| !Details Page](file:///C:/020/WEBTOON/WEBTOON/Popular.html) |
 
 ## 📈 Future Features
 
