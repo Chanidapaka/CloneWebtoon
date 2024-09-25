@@ -22,4 +22,44 @@ CloneWebtoon is built to mimic the functionality of a webtoon platform by allowi
 - **Database**: MongoDB (or any other suitable NoSQL database)
 - **Version Control**: Git, GitHub for collaborative development
 
+## 🖼️ Screenshots
+
+| Home Page                         | Webtoon Details                     | Reading View                     |
+|------------------------------------|-------------------------------------|----------------------------------|
+| ![Home Page](path/to/screenshot1)  | ![Details Page](path/to/screenshot2)| ![Reading View](path/to/screenshot3) |
+
+## 📈 Future Features
+
+- **User Authentication**: Secure sign-up and login for personalized experiences.
+- **Comment System**: Allow users to comment and engage with other readers.
+- **Ratings & Reviews**: Let users rate and review webtoons.
+- **Dark Mode**: A comfortable reading mode for night-time users.
+
+## 🤝 Contributing
+
+We welcome contributions! Feel free to submit issues or pull requests. Whether it's bug fixes, features, or enhancements, your help is appreciated.
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/new-feature`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature/new-feature`)
+5. Open a pull request
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+
+We would like to thank the creators of various webtoon platforms for the inspiration behind this project. Special thanks to all the developers and designers who contributed to making this project possible.
+
+---
+
+## 📬 Contact
+
+If you have any questions, feel free to reach out:
+
+- GitHub: [Chanidapaka](https://github.com/Chanidapaka)
+- Email: chanidapapanta@gmail.com
+
 
