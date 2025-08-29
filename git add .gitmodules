@@ -1,0 +1,3 @@
+[submodule "Webtoon"]
+    path = Webtoon
+    url = https://github.com/Chanidapaka/CloneWebtoon.git
